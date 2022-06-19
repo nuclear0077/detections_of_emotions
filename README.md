@@ -1,4 +1,5 @@
 # detections of emotions
+Презентация детектора эмоций https://drive.google.com/file/d/19_xx83iskUEVugxJU-2zj_Uj-hHAJ843/view?usp=sharing
 Модель на основе keras-vggface
 
 За основу взята модель https://github.com/rcmalli/keras-vggface с весами RESNET50.
